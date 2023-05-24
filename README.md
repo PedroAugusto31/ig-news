@@ -4,9 +4,9 @@
 
 # <h2>Tecnologies used:</h2>
 
-    <ul>
-        <li>Typescript</li>
-        <li>React.js</li>
-        <li>Next.js</li>
-        <li>SASS</li>
-    </ul>
+<ul>
+    <li>Typescript</li>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>SASS</li>
+</ul>
